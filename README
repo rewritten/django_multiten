@@ -1,0 +1,8 @@
+A Django add-on to allow multitenant instances with strong database separation.
+
+It needs to monkeypatch some of Django, so use at your own risk!
+
+User needs to change the default `manage.py` file, so use at your own risk!!
+
+DESPERATELY NEEDS TESTS!!!!!!!
+
